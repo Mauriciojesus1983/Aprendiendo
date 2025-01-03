@@ -1,0 +1,5 @@
+# Ignorar los archivos de configuración de VS Code
+.vscode/
+
+# Ignorar configuraciones de IntelliJ
+.idea/
