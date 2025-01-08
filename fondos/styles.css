@@ -1,0 +1,31 @@
+body{
+    background-color: #48e;
+    margin: 0;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.box {
+    width: 500px;
+    height:100px;
+    margin: 20px;
+    margin: 0;
+    
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ksZgXtuCLt5GCKuvdBPYIgHaE8%26pid%3DApi&f=1&ipt=cf433df70d631acad339063a094c21b9af00ef2075fc8659f6b4ee856daf7228&ipo=images) ;
+    background-color: #6fa;
+    background-size:cover;
+    background-position: top;
+    background-attachment: fixed;
+    
+}
+
+.opaco {
+    height: 100%;
+    width: 100%;
+    background-color: #000a;
+}
+
+h2 {
+    padding: 20px;
+    text-align: center;
+}
